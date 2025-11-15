@@ -20,15 +20,14 @@ Algumas sugestões de nomes:
 {Prompts negativos}
 -> Nâo sugira um nome óbvio ou de um podcast que já exista.
 -> Não sugira nome de serviços que já existam (sugeriu igual)
--> Sem usar termos na lista: "Tecnolgia/Dev" e suas variações. 
+-> Sem usar termos na lista: "Tecnolgia/Dev" e suas variações.
 
 ----------------------
-## Resultado:
+
+# Resultado:
 
 <aside>
-💡
-
-Bold Talk -> Speak with Impact 
+💡Bold Talk -> Speak with Impact 
 *Que soa parecido com Body Talk e a linguagem corporal é parte fundamental da comunicação efetiva
 
 *Bold (negrito) sugere uma fala impactante.
@@ -37,7 +36,7 @@ Bold Talk -> Speak with Impact
 
 ----------------------
 
-# Capa/ou avatar
+# Capa/ou avatar - prompt usado: 
 
 Generate the image according to what is described (necessário pro gpt)
 
@@ -46,10 +45,11 @@ male, around 25 to 30's. caucasian, ginger beard, islightly thin hain, squared f
 # Resultado que escolhi:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/963f883f-4081-4e28-8336-186b92207ec5" />
 
-/Abrangeu quase todos os parâmetros, exceto a cor do terno.
+## /Abrangeu quase todos os parâmetros, exceto a cor do terno.
 ----------------------
 
-# Roteiro
+# Roteiro - prompt usado:
+
 Você é um roteirista de um podcast de conversação, focado em tecnologia e inglês ténico. O nome do podcast é "Bold Talk -> Speak with Impact"; 
 
 o público alvo gira em torno de homens e mulheres na casa do 20 a 25 anos, com interesse em inglês e tecnologia, que estejam graduados ou graduando em algum desses 2 tópicos; pessoas que pretendem migrar para a área de tecnologia ou "business" e/ou pessoas que só querem aprender inglês técnico. 
@@ -165,4 +165,16 @@ Considerando que esse é primeiro episódio, o roteiro deve seguir a estrutura:
 > 
 > *See you in space, cowboy.* 🌌
 
+-------------------------
 
+# Considerações finais: 
+
+Gerar a identidade do apresentador, texto, conceito... foi fácil. Acredito que hoje há conteúdo suficiente pra que as IAs generativas entreguem algo coerente nesse quesito. 
+
+O problema começou na parte de Transformar o Texto pra Audio. Usei até um texto em inglês já imaginando que a proficiência das ferramentas do Eleven Labs seria melhor do que usando um texto em português (onde é facilmente identificável que o audio é um audio artificial).
+
+Mas aconteceu alguns bugs como repetir incontáveis vezes "GREATER THAN" [...] nas várias tentativas que fiz. Não sei se a ferramenta confunde com algum comando interno (tentativas realizadas em *Outubro/2025*) ou se é uma limitação da versão gratuita que utilizei.
+
+Também aprendi que é possível adicionar nuances, entonações e tornar a voz mais 'humanizada' adicionando essas características dentro do texto. (Se quero uma voz mais suave colo *<smooth> texto desejado... <normal voice>... etc*)
+
+No geral, foi uma experiência interessante bricar com essas ferramentas além de só gerar imagens ou resolver tarefas cotidianas.
